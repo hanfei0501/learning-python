@@ -23,8 +23,8 @@
 # print(list[0:3])
 # print(list[-1])
 
-tup1 = (1,2,3,4,5)
+tup1 = (1, 2, 3, 4, 5)
 print(tup1[-2])
-tup2 = (6,7,8,9,10)
+tup2 = (6, 7, 8, 9, 10)
 tup = tup1+tup2
 print(len(tup))
